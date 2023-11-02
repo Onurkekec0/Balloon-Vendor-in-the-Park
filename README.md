@@ -1,4 +1,6 @@
 # Balloon-Vendor-in-the-Park
+Learn to Count - Educational Game with Unity and Augmented Reality This project is developed with the aim of teaching preschool children how to count in a fun and interactive way using Unity and Augmented Reality technologies.
+
 This Unity project simulates a balloon vendor in a park and is also an Augmented Reality (AR) project. To run this project on your own mobile device or an emulator, you will need to add your own QR code to the project. After uploading the QR code, you can integrate it into the project using [Vuforia](https://github.com/Onurkekec0/Balloon-Vendor-in-the-Park-AR-Project-/#vuforia).
 
 
