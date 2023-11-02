@@ -3,6 +3,7 @@ Learn to Count - Educational Game with Unity and Augmented Reality This project 
 
 This Unity project simulates a balloon vendor in a park and is also an Augmented Reality (AR) project. To run this project on your own mobile device or an emulator, you will need to add your own QR code to the project. After uploading the QR code, you can integrate it into the project using [Vuforia](https://github.com/Onurkekec0/Balloon-Vendor-in-the-Park-AR-Project-/#vuforia).
 
+205541008 - Onur Kekeç
 
 
 ![image](https://github.com/Onurkekec0/Balloon-Vendor-in-the-Park-AR-Project-/assets/102962541/596cf13b-2caf-41c2-aaf4-a6926dbdc563)
